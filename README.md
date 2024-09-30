@@ -55,7 +55,7 @@ You can modify the video_id in the ```if __name__=='__main__':``` block to proce
 - **Output:** The final output video is saved ```output_video.mp4```
 
 ### Example generated video:
-https://github.com/NisaarAgharia/AI-Shorts-Creator/assets/22457544/318c8cf1-bcc3-4ed7-a979-7af17e545e6e
+https://github.com/user-attachments/assets/0fdb6421-44e4-4a4a-b331-42df726b27bd
 
 ### Original video:
 Source Video : https://www.youtube.com/watch?v=iTwZzUApGkA
